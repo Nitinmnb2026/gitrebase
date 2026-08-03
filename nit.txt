@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nitin is mastering devops
+=======
+Nitin is learning this from cwvj
+>>>>>>> 242ae21 (feat:add info about cwvj)
