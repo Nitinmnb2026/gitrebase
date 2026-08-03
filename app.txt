@@ -1,3 +1,4 @@
 app initialized
 added header
 added footer
+added layout
